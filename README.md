@@ -26,6 +26,10 @@ mamba install -c fastchan fastai
 
 mamba install -c fastchan fastbook
 
+7. Install sentencepiece
+
+mamba install -c fastchan sentencepiece
+
 Various Projects will be added as subfolders to the main repository. The projects with not much change will not be in this list, though will be in still added in repository.
 
 
